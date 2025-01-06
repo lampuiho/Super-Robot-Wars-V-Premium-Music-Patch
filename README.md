@@ -1,5 +1,5 @@
 # Version of the game
-Only works for 2.0.148 at the moment. Will update soon
+Tested on the 2.0.148 and 2.0.150
 
 # To build:
 Edit the path to mingw64\bin\gcc in build_test.bat
